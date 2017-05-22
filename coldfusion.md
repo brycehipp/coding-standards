@@ -40,34 +40,14 @@
 
 This document is intended to be a concise summary of best practices for anyone building CFML applications within the Ortus team. Several external resources used when creating this document. Please note that this is a guideline based on past development experience and industry standards. Please use common sense when applying them and note that this document is ever changing as development trends continue to change.
 
-**[[⬆]](#TOC)**
-
-
-## <a name="idetools">IDE Tools</a>
-
-We have created several IDE formatter tools and some Sublime packages we use:
-
-* [CFBuilder Formatter](https://drive.google.com/open?id=0B3aRjVTf2SeqNmFBZmZJVjR5TUU)
-* [CFBuilder Preferences](https://drive.google.com/open?id=0B3aRjVTf2Seqb2pQMnVIQ0NSLTA)
-* [CFBuilder/Eclipse Java Cleanup](https://drive.google.com/open?id=0B3aRjVTf2SeqSUZDbW5UUjVwOU0)
-* [CFBuilder/Eclipse Java Formatter](https://drive.google.com/open?id=0B3aRjVTf2SeqSndHZEppUmdQLUU)
-* [CFBuilder/Eclipse JavaScript Formatter](https://drive.google.com/open?id=0B3aRjVTf2SeqRlctSDhtZDRoRmM)
-* [Sublime Alignment](https://www.granneman.com/webdev/editors/sublime-text/packages/how-to-install-and-use-sublime-alignment/)
-* [Sublime Emmet](https://packagecontrol.io/packages/Emmet)
-* [Sublime Bracket Highlighter](https://packagecontrol.io/packages/BracketHighlighter)
-* [Sublime DockBlockr](https://packagecontrol.io/packages/DocBlockr)
-* [Sublime Markdown](https://packagecontrol.io/packages/Markdown%20Preview)
-* [Sublime ColdBox Platform](https://packagecontrol.io/packages/ColdBox%20Platform)
-
-**[[⬆]](#TOC)**
-
+**[⬆](#TOC)**
 
 ## <a name="naming-conventions">Naming & Conventions</a>
 
 Use good names for components, methods, arguments and local variables. This can sometimes be a disaster if developers choose random names or non qualified names for methods, arguments and local variables. Naming is very important and will most of the time document your code. Always remember to use meaningful names and stay away from cryptic abbreviations or naming strategies.
 
 
-**[[⬆]](#TOC)**
+**[⬆](#TOC)**
 
 
 ### <a name="abbreviations">Abbreviations</a>
